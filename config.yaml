@@ -1,0 +1,4 @@
+# config.yaml
+stacks:
+  - name: ec2
+    path: infra/ec2
